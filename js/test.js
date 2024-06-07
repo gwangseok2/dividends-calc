@@ -1,3 +1,4 @@
+console.log('test');
 
 /**
  * 월 배당 계산기
